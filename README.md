@@ -17,3 +17,7 @@ pip install ijson
 python Main.py unpack lica文件 输出文件夹 --stream
 
 ```
+
+## 后缀
+
+默认为`.lica`或`.lic`
